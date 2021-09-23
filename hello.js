@@ -1,1 +1,1 @@
-document.innerHTML = 'hello';
+document.innerHTML = "hello";
